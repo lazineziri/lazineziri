@@ -6,7 +6,7 @@
 - 🥅 2024 Goals: Contribute to Open Source projects and enhance my full-stack development skills.
 
 ## My Work
-- **Kanget Shqipe App**: A mobile application built with React Native and integrated with AWS. Published on iOS, this app [describe the functionality or purpose of the app briefly]. Check it out [here](https://apps.apple.com/xk/app/kanget-shqipe/id6475264194).
+- **Kanget Shqipe App**: A mobile application built with React Native and integrated with AWS. Published on iOS. Check it out [here](https://apps.apple.com/xk/app/kanget-shqipe/id6475264194).
 
 ## Connect with Me
 - [LinkedIn](https://www.linkedin.com/in/iljasneziri/)
